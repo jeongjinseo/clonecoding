@@ -21,8 +21,3 @@ struct MyListScreen: View {
 }
 
 
-#Preview {
-    NavigationStack {
-        MyListsScreen()
-    }
-}
